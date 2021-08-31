@@ -1,0 +1,15 @@
+.Card {
+  border: 1px solid black;
+  border-radius: 8px;
+  font-size: 18px;
+  padding: 5px;
+  margin: 5px;
+  width: 25%;
+  color: rgb(0, 255, 85);
+  background-color: rgb(141, 106, 175);
+}
+
+.Card :hover {
+  filter: brightness(0.9);
+  cursor: pointer;
+}
